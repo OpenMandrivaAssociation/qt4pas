@@ -9,7 +9,7 @@ Summary:	Free Pascal Qt4 binding
 Name:		qt4pas
 # defined in .pro file inside source tarball
 Version:	5.2.5
-Release:	3
+Release:	4
 License:	LGPLv3+
 Group:		System/Libraries
 Url:		http://users.telenet.be/Jan.Van.hijfte/qtforfpc/fpcqt4.html
