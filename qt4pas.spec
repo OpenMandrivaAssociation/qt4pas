@@ -12,7 +12,7 @@ Version:	5.2.5
 Release:	4
 License:	LGPLv3+
 Group:		System/Libraries
-Url:		http://users.telenet.be/Jan.Van.hijfte/qtforfpc/fpcqt4.html
+Url:		https://users.telenet.be/Jan.Van.hijfte/qtforfpc/fpcqt4.html
 Source0:	qt4pas-V2.5_Qt4.5.3.tar.gz
 BuildRequires:	qt4-devel
 BuildRequires:	pkgconfig(QtWebKit)
