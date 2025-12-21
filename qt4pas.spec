@@ -14,6 +14,7 @@ License:	LGPLv3+
 Group:		System/Libraries
 Url:		https://users.telenet.be/Jan.Van.hijfte/qtforfpc/fpcqt4.html
 Source0:	qt4pas-V2.5_Qt4.5.3.tar.gz
+BuildRequires:	make
 BuildRequires:	qt4-devel
 BuildRequires:	pkgconfig(QtWebKit)
 
